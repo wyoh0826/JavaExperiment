@@ -20,7 +20,7 @@ public class Mosaic extends Application{
 	private Canvas canvas;
 	private Image img = null;
 	private Stage stage;
-	private int SamplingInterval = 16;
+	private int SamplingInterval = 8;
 	private int num = 3;
 	
 	@Override
